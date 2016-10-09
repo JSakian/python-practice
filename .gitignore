@@ -137,3 +137,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# Eclipse Core
+*.project
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+*.metadata
