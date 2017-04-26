@@ -1,7 +1,7 @@
 '''
 Created on Oct 8, 2016
 
-@author: Ed
+@author: Jonathan Sakian
 '''
 
 from builtins import input
